@@ -1,0 +1,25 @@
+.u2{
+    align-content: center;
+}
+
+.tr4{
+    background-color: black;
+}
+th{
+    background-color: rgb(254, 225, 3);
+    color: rgb(4, 4, 4);
+}
+.tr2{
+    background-color: red;
+}
+.tr5{
+    background-color: aliceblue;
+}
+.tu6{
+    background-color: black;
+    height: 150px;
+    width: 500px;;
+}
+.ty6{
+    background-color: green;
+}
